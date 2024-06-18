@@ -32,9 +32,9 @@
     "commander": "^2.0.0",
     "esm": "^3.0.0",
     "js-yaml": "^3.13.1",
-    "markdown-it": "^7.0.1",
+    "markdown-it": "^14.1.0",
     "markdown-it-attrs": "4.0.0",
-    "node-sass": "^4.9.4",
+    "node-sass": "^9.0.0",
     "sass-loader": "^7.1.0",
     "string-replace-loader": "^2.2.0",
     "vue": "^2.0.0",
@@ -43,7 +43,7 @@
     "vuepress-plugin-robots": "^1.0.1",
     "vuepress-plugin-sitemap": "^2.1.2",
     "webpack": "^3.0.0",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.6.2"
   },
   "browserslist": "> 0.25%"
 }
